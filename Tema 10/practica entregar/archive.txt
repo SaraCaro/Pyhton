@@ -1,0 +1,6 @@
+Juan, González Torres,juan@micorreo.es,654321987,Rue del Percebe 13
+María, González Torres   ,	maria@mail.com,		958999999, Gran vía 8 4º A 18002 Granada
+	Juan José, Bustos García,	jj@micorreo.es,	958654321,
+		María José, Sánchez Moreno ,,		63521636, C/ Nueva 17 18600 Motril
+	Mario, López Vargas,	mario0@mymail.com,	612345678,Glorieta de los Claveles S/N
+	

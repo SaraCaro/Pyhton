@@ -1,0 +1,72 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="4">
+            <item index="0" class="java.lang.String" itemvalue="fxlayout" />
+            <item index="1" class="java.lang.String" itemvalue="fxlayoutgap" />
+            <item index="2" class="java.lang.String" itemvalue="fxlayoutalign" />
+            <item index="3" class="java.lang.String" itemvalue="fxlayout.xs" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="12">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="ng-dynamic-http-table" />
+            <item index="7" class="java.lang.String" itemvalue="ng-breadcrumbs" />
+            <item index="8" class="java.lang.String" itemvalue="ng-breadcrumb" />
+            <item index="9" class="java.lang.String" itemvalue="ngx-mat-file-input" />
+            <item index="10" class="java.lang.String" itemvalue="ion-scroll" />
+            <item index="11" class="java.lang.String" itemvalue="ng-logo" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="14">
+            <item index="0" class="java.lang.String" itemvalue="userManagement" />
+            <item index="1" class="java.lang.String" itemvalue="MultiClient" />
+            <item index="2" class="java.lang.String" itemvalue="zxcvbn" />
+            <item index="3" class="java.lang.String" itemvalue="botocore" />
+            <item index="4" class="java.lang.String" itemvalue="pytest" />
+            <item index="5" class="java.lang.String" itemvalue="Nucleoo" />
+            <item index="6" class="java.lang.String" itemvalue="pytest-flask" />
+            <item index="7" class="java.lang.String" itemvalue="Apm2" />
+            <item index="8" class="java.lang.String" itemvalue="requests" />
+            <item index="9" class="java.lang.String" itemvalue="awscli" />
+            <item index="10" class="java.lang.String" itemvalue="boto3" />
+            <item index="11" class="java.lang.String" itemvalue="Unidecode" />
+            <item index="12" class="java.lang.String" itemvalue="login-ldap" />
+            <item index="13" class="java.lang.String" itemvalue="zope.event" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N801" />
+          <option value="N802" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="Stylelint" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="TsLint" enabled="true" level="WARNING" enabled_by_default="true" />
+  </profile>
+</component>
